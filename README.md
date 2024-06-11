@@ -10,7 +10,7 @@ Sage is a clone of Google's Gemini, built using React and the Gemini API. It off
 
 ## Demo
 
-You can check out a live demo of Sage [here](https://your-demo-link.com).
+You can check out a live demo of Sage [here](https://sagegemini.netlify.app/).
 
 
 ## Installation
