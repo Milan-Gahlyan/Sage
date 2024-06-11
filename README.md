@@ -1,6 +1,6 @@
 # Sage
 
-Sage is a clone of Google's Gemini, built using React and the Gemini API. It offers the same functionality as Gemini, allowing users to ask questions, view recent questions, and start new chats.
+Sage is a personal assistant chatbot, built using React and the Gemini API. It offers functionalities similar to Google's Gemini, allowing users to ask questions, view recent questions, and start new chats.
 
 ## Features
 
