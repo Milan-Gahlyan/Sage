@@ -11,6 +11,11 @@
   animation: fadeIn 1.5s;
 }
 
+::selection {
+  color: white;
+  background: black;
+}
+
 @keyframes fadeIn {
   0%{
     opacity: 0;
